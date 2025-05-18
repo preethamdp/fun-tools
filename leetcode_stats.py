@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import requests
 
-USERNAME = "preetham1010"
+USERNAME = "username"
 
 query = """
 query getUserProfile($username: String!) {
